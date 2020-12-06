@@ -1,0 +1,10 @@
+READ 4 ... okay
+READ 13 ... okay
+WRITE cc32 ... okay
+READ 4000 ... okay
+READ 4000 ... okay
+WRITE 6001 ... okay
+READ 0 ... okay
+READ 4000 ... okay
+READ 8000 ... okay
+READ a5db2 ... page fault
